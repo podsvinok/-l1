@@ -1,0 +1,14 @@
+D:\ewq321\qwe11\qwe11\bin\Debug\qwe11.exe.config
+D:\ewq321\qwe11\qwe11\bin\Debug\qwe11.exe
+D:\ewq321\qwe11\qwe11\bin\Debug\qwe11.pdb
+D:\ewq321\qwe11\qwe11\bin\Debug\lkt-US\qwe11.resources.dll
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.csproj.AssemblyReference.cache
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.csproj.SuggestedBindingRedirects.cache
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.Tester.resources
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.Properties.Resources.resources
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.Tester.lkt-US.resources
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.csproj.GenerateResource.cache
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.csproj.CoreCompileInputs.cache
+D:\ewq321\qwe11\qwe11\obj\Debug\lkt-US\qwe11.resources.dll
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.exe
+D:\ewq321\qwe11\qwe11\obj\Debug\qwe11.pdb
